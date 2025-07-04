@@ -9,7 +9,7 @@ import Input from '../Input/Input';
 
 import './Chat.css';
 
-const ENDPOINT = 'http://localhost:5000'//'https://project-chat-application.herokuapp.com/';
+const ENDPOINT = 'https://talkhub-ddtt.onrender.com/';
 
 let socket;
 
