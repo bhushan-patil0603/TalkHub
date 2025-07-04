@@ -2,19 +2,53 @@
 
 ### [Live Site](https://realtime-chat-application.netlify.com)
 
-### [🌟 Become a top 1% Next.js developer in only one course](https://jsmastery.pro/next15)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-
 ![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
+# 🗨️ TalkHub – Real-Time Chat Application
 
-In this video, we will create a full Realtime Chat Application. We're going to use  React on the front end, with NodeJS + Socket.io web socket library on the back end. 
+**TalkHub** is a real-time chat application that enables users to create and join unique chat rooms for seamless, instant communication. Built with **React**, **Node.js**, **Express.js**, and **Socket.io**, it delivers a fast and interactive chatting experience. The app also includes **Clerk authentication** to ensure secure user access to chat rooms.
 
-By the end of this video, you will have a strong understanding of how to send and receive messages using web sockets and Socket.io to make any real-time application.
+---
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## 🚀 Features
 
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
+- 🔐 User Authentication with Clerk
+- 🧩 Unique Room Creation
+- 💬 Real-Time Chat with Socket.io
+- 🖥️ Responsive UI built with React
+- 🌐 WebSocket-based bi-directional communication
+- 🗂️ Git-based version control for collaboration
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- React.js
+- JavaScript
+- CSS
+
+**Backend:**
+- Node.js
+- Express.js
+
+**Other Tools:**
+- Socket.io (real-time communication)
+- Git & GitHub (version control)
+
+---
+
+
+## 📁 Getting Started
+
+### Prerequisites
+
+- Node.js (v14+)
+- npm or yarn
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/bhushan-patil0603/TalkHub.git
