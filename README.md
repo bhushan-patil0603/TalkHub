@@ -7,13 +7,12 @@
 ## Introduction
 # 🗨️ TalkHub – Real-Time Chat Application
 
-**TalkHub** is a real-time chat application that enables users to create and join unique chat rooms for seamless, instant communication. Built with **React**, **Node.js**, **Express.js**, and **Socket.io**, it delivers a fast and interactive chatting experience. The app also includes **Clerk authentication** to ensure secure user access to chat rooms.
+**TalkHub** is a real-time chat application that enables users to create and join unique chat rooms for seamless, instant communication. Built with **React**, **Node.js**, **Express.js**, and **Socket.io**, it delivers a fast and interactive chatting experience.
 
 ---
 
 ## 🚀 Features
 
-- 🔐 User Authentication with Clerk
 - 🧩 Unique Room Creation
 - 💬 Real-Time Chat with Socket.io
 - 🖥️ Responsive UI built with React
@@ -45,7 +44,7 @@
 ### Prerequisites
 
 - Node.js (v14+)
-- npm or yarn
+- npm
 
 ### Installation
 
