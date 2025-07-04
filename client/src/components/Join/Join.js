@@ -9,7 +9,8 @@ export default function SignIn() {
 
   return (
     <div className="joinOuterContainer">
-      <div className="joinInnerContainer">
+      <div>
+        <h1 className="heading1">Welcome to <span className='blueColor'>Talk</span>Hub</h1>
         <h1 className="heading">Join</h1>
         <div>
           <input placeholder="Name" className="joinInput" type="text" onChange={(event) => setName(event.target.value)} />
